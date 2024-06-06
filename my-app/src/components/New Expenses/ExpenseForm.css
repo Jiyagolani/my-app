@@ -1,0 +1,32 @@
+.control{
+    background-color: black;
+    display: flex;
+    color: wheat;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    padding: 10px;
+    inline-size: 700px;
+    align-items: center;
+
+}
+.aa label{
+    margin-bottom: 0.5rem;
+    display: block;
+}
+.aa input{
+    padding: 0.5rem;
+    border-radius: 6px ;
+    border: 1px solid wheat;
+    width: 20rem;
+
+}
+
+.submit{
+    text-align: right;
+
+}
+
+
+
